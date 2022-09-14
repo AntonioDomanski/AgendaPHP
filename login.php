@@ -13,11 +13,9 @@
   <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <!-- CSS LOGIN -->
   <link href="css/login.css?v2=<?php echo time();?>" rel="stylesheet">
- 
 </head>
 <?php
 include "config.php";
-
 ?>
 <body>
   <div class="container">
@@ -45,10 +43,7 @@ include "config.php";
             ?>
           </div>
         </form>
-
       </div> <!-- /container -->
-
-   
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
       <script src="bootstrap/js/bootstrap.min.js"></script>
     </body>
